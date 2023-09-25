@@ -1,0 +1,16 @@
+
+/.idea/
+/.config/
+.project
+.settings
+.classpath
+**/target/
+*.iml
+*.iws
+.attach_*
+
+# Eclipse
+.classpath
+.project
+.settings
+.pydevproject
